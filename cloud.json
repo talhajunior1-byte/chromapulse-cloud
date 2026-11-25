@@ -1,0 +1,25 @@
+{
+  "latest": "0.4.0",
+  "setupUrl": "https://github.com/talhajunior1-byte/chromapulse-cloud/releases/download/v0.4.0/ChromaPulse-Setup-0.4.0.exe",
+  "setupSha256": "",
+  "notes": "Pro licences, online preset library and auto-update.",
+  "revoked": [],
+  "presets": [
+    { "id": "val-clean",     "name": "Valorant Clean",   "author": "ChromaPulse", "game": "Valorant",     "desc": "Sharper enemy outlines, natural skin tones",
+      "color": { "saturation": 135, "vibrance": 72, "brightness": 0,  "contrast": 106, "gamma": 112 } },
+    { "id": "cs2-clarity",   "name": "CS2 Pro Clarity",  "author": "ChromaPulse", "game": "CS2",          "desc": "Lifts dark corners on Mirage and Inferno",
+      "color": { "saturation": 125, "vibrance": 68, "brightness": 2,  "contrast": 104, "gamma": 125 } },
+    { "id": "fn-pop",        "name": "Fortnite Pop",     "author": "ChromaPulse", "game": "Fortnite",     "desc": "Cartoon colours turned up to eleven",
+      "color": { "saturation": 185, "vibrance": 90, "brightness": 2,  "contrast": 108, "gamma": 102 } },
+    { "id": "ff-ultra",      "name": "Free Fire Ultra",  "author": "ChromaPulse", "game": "Free Fire",    "desc": "Vivid emulator look, bright jungle maps",
+      "color": { "saturation": 175, "vibrance": 85, "brightness": 4,  "contrast": 110, "gamma": 108 } },
+    { "id": "cod-nightops",  "name": "COD Night Ops",    "author": "ChromaPulse", "game": "Call of Duty", "desc": "See into shadows without washing out",
+      "color": { "saturation": 128, "vibrance": 70, "brightness": 5,  "contrast": 100, "gamma": 138 } },
+    { "id": "apex-vibrant",  "name": "Apex Vibrant",     "author": "ChromaPulse", "game": "Apex Legends", "desc": "Brighter shields and enemy damage numbers",
+      "color": { "saturation": 160, "vibrance": 80, "brightness": 0,  "contrast": 107, "gamma": 110 } },
+    { "id": "cine-teal",     "name": "Cinematic Teal",   "author": "ChromaPulse", "game": "Any game",     "desc": "Moody film look for story games",
+      "color": { "saturation": 112, "vibrance": 58, "brightness": -4, "contrast": 120, "gamma": 94 } },
+    { "id": "retro-warm",    "name": "Retro Warm",       "author": "ChromaPulse", "game": "Any game",     "desc": "Soft, warm and easy on the eyes",
+      "color": { "saturation": 108, "vibrance": 55, "brightness": 3,  "contrast": 96,  "gamma": 104 } }
+  ]
+}
