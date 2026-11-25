@@ -4,6 +4,9 @@
   "setupSha256": "",
   "notes": "Pro licences, online preset library and auto-update.",
   "revoked": [],
+  "keys": [
+    {"h":"0a66e71944f4ee30ebda43bad7d95f9ea47cf041c5ea7b41bc75fa92d86ac8cf","id":"drogo-admin-1","name":"Drogo #1 (admin)","tier":"pro","expires":"2027-01-24"}
+  ],
   "presets": [
     { "id": "val-clean",     "name": "Valorant Clean",   "author": "ChromaPulse", "game": "Valorant",     "desc": "Sharper enemy outlines, natural skin tones",
       "color": { "saturation": 135, "vibrance": 72, "brightness": 0,  "contrast": 106, "gamma": 112 } },
